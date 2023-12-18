@@ -1,4 +1,4 @@
-# Codanics Team Projects
+A# Codanics Team Projects
 
 Welcome to the Codanics Team Projects repository! 
 This space is dedicated to showcasing the collective efforts of our team during the six-month Data Science Mentorship Program. 
@@ -24,8 +24,8 @@ Throughout the program, we collaboratively work on various projects, applying da
 
 ### Team Projects
 
-1. **Project Name 1**
-   - Description: Brief overview of the project.
+1. **EDA on Used Cars Data**
+   - Description: We performed the detailed EDA operation on the dataset, arise different questions, answer those question through visualizations and also provided the statistical analysis by using the technique of hypothesis testing.
    - Team Members: List of team members who worked on the project.
    - Notebooks: [Link to Project 1 Notebooks]
 
