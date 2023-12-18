@@ -26,8 +26,17 @@ Throughout the program, we collaboratively work on various projects, applying da
 
 1. **EDA on Used Cars Data**
    - Description: We performed the detailed EDA operation on the dataset, arise different questions, answer those question through visualizations and also provided the statistical analysis by using the technique of hypothesis testing.
-   - Team Members: List of team members who worked on the project.
-   - Notebooks: [Link to Project 1 Notebooks]
+   - Team Members: Sheraz (sherazmemon19901@gmail.com)
+                   Hurairah (engr.mht21@gmail.com)
+                   Hurairah (engr.mht21@gmail.com)
+                   Farwa (2005fkhalid@gmail.com)
+                   Anila (anilarafique729@gmail.com)
+                   Noreen (noreennsaba@gmail.com)
+                   Ansa Anjum (anjumansa56@gmail.com)
+                   M. Sallahudin (sallahuddinsidd@gmail.com)
+                   Usman Tariq (usm6329@gmail.com)
+                   Sheraz Amir (sherazamir000@gmail.com) 
+   - Notebooks: [[Link to Project 1 Notebooks](https://github.com/USM811/Codanics_Team_Projects/blob/55e12fe21a71c498ac657cf21874f05bec61157f/Used_Cars_Data_Analysis/used_cars_EDA_Codanics_Team_01.ipynb)]
 
 2. **Project Name 2**
    - Description: Brief overview of the project.
